@@ -25,11 +25,14 @@ redirect_from:
 
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
   2. Emergency Management <br>
-  Emphasize the development and application of integrated governance theories in urban risk governance contexts, with a focus on mechanisms of intergovernmental and cross-sectoral collaboration in urban emergency management.
+  Emphasize the development and application of "integrated governance" theoritical framework in urban risk governance contexts, with a focus on mechanisms of intergovernmental and cross-sectoral collaboration in urban emergency management.
 </p>
 
-<p style="margin-bottom: 1em; padding-left: 20px;">
-## News <br>
+<p style="margin-bottom: 3em>
+<span class="news-title">News</span><br>
+</p>
+  
+<p style="margin-bottom: 0.5em; padding-left: 20px;">
 * [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! <br>
 * [2025.12] Successfully passed the pre-defense of the doctoral dissertation at BUAA. <br>
 * [2025.10] Received the certificate of "Three Good Student" of BUAA. <br>
