@@ -7,12 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+<br> <!-- 这里增加一行，拉开与标题的距离 -->
 
-I am a phd candidate in emergency management at Beihang University (BUAA). <br> 
-My research interests lie in the transformation of urban governance and emergency management. Current research themes include: <br>
-    1. focuses on two key issues in megacity markets: urban digital transformation and environmental governance, and examines the political and social impacts of digital government development and smart governance, as well as the environmental governance reforms driven by digital technologies and their policy implementation processes. <br>
-    2. focuses on the construction and elaboration of the theory of "integrated governance" and its application in the urban governance scene, and pays attention to the differentiated cooperation forms and practical logic of urban emergency. <br>
+<div style="margin-bottom: 0.5em;">
+  I am a phd candidate in emergency management at Beihang University (BUAA).
+</div>
 
+<div style="margin-bottom: 0.5em;">
+  My research interests lie in the transformation of urban governance and emergency management. Current research themes include:
+</div>
+
+<div style="margin-bottom: 0.5em;">
+  1. focuses on two key issues in megacity markets: urban digital transformation and environmental governance, and examines the political and social impacts of digital government development and smart governance, as well as the environmental governance reforms driven by digital technologies and their policy implementation processes.
+</div>
+
+<div style="margin-bottom: 0.5em;">
+  2. focuses on the construction and elaboration of the theory of “integrated governance” and its application in the urban governance scene, and pays attention to the differentiated cooperation forms and practical logic of urban emergency.
+</div>
+
+<br> <!-- 与 News 标题之间也留出一行距离 -->
 
 ## News
 * [2026.01] Our paper "XX" has been accepted by CVPR 2026!
