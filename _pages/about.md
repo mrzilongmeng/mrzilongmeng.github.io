@@ -14,4 +14,7 @@ My research interests lie in the transformation of urban governance and emergenc
     2. focuses on the construction and elaboration of the theory of "integrated governance" and its application in the urban governance scene, and pays attention to the differentiated cooperation forms and practical logic of urban emergency. <br>
 
 
-Wait. I will give you a better website page soon.
+## News
+* [2026.01] Our paper "XX" has been accepted by CVPR 2026!
+* [2025.12] I received the Best Paper Award at the XX Conference.
+* [2025.09] I started my PhD at Beihang University.
