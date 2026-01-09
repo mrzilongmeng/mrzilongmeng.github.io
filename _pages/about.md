@@ -15,7 +15,7 @@ redirect_from:
 </p>
 
 <p style="margin-bottom: 0.5em;">
-  My research interests lie in the transformation of urban governance and emergency management. Current research themes include:
+  My research interests lie in the transformation of urban governance and emergency management. Current research issues include:
 </p>
 
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
