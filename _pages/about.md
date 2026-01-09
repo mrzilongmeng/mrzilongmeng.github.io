@@ -35,8 +35,8 @@ redirect_from:
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
 * [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! <br>
 * [2025.12] Successfully passed the pre-defense of the doctoral dissertation at BUAA. <br>
-* [2025.10] Received the certificate of "Three Good Student" of BUAA. <br>
-* [2023.02] Received the certificate of "Best Master Dissertation" of ECUPL (East Univeristy of Political Science and Law). <br>
+* [2025.10] Received the honor of "Three Good Student" at BUAA. <br>
+* [2023.02] Received the honor of "Best Master Dissertation" from ECUPL (East Univeristy of Political Science and Law). <br>
 * [2022.09] I started my PhD at Beihang University. <br>
 </p>
 
