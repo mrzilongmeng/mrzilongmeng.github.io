@@ -26,11 +26,13 @@ redirect_from:
   2. focuses on the construction and elaboration of the theory of “integrated governance” and its application in the urban governance scene, and pays attention to the differentiated cooperation forms and practical logic of urban emergency.
 </p>
 
-## News
-* [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations!
-* [2025.12] Successfully passed the pre-defense of the doctoral dissertation at BUAA.
-* [2025.10] Received the certificate of "Three Good Student" of BUAA.
-* [2023.02] Received the certificate of "Best Master Dissertation" of ECUPL (East Univeristy of Political Science and Law).
-* [2022.09] I started my PhD at Beihang University.
+<p style="margin-bottom: 1em; padding-left: 20px;">
+## News <br>
+* [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! <br>
+* [2025.12] Successfully passed the pre-defense of the doctoral dissertation at BUAA. <br>
+* [2025.10] Received the certificate of "Three Good Student" of BUAA. <br>
+* [2023.02] Received the certificate of "Best Master Dissertation" of ECUPL (East Univeristy of Political Science and Law). <br>
+* [2022.09] I started my PhD at Beihang University. <br>
+</p>
 
 </div>
