@@ -6,7 +6,7 @@ permalink: https://doi.org/10.15896/j.xjtuskxb.202505012
 excerpt: '与任丙强、薛治佳合作，本人为通讯作者'
 date: 2025-10-01
 venue: '西安交通大学学报(社会科学版)'
-paperurl: '/files/xian-jiaotong-daxue-xuebao.pdf'
+paperurl: '/files/xi'an-jiaotong-daxue-xuebao.pdf'
 citation: '任丙强,薛治佳,孟子龙.“动力—能力”视角下省域大气污染治理的有效路径[J].西安交通大学学报(社会科学版),2025,45(5):127-138.'
 ---
 
