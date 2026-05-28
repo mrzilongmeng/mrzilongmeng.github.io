@@ -36,18 +36,14 @@ redirect_from:
 <span style="color:red; font-weight:bold; font-size:1.2em;">News</span> <br>
   
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
-* [2026.05] Ph.D. Defense Completed Successfully!
-My doctoral dissertation, Calibrated Collaboration of Urban Emergency Management, has successfully passed the oral defense at Beihang University.
+* [2026.05] Ph.D. Defense Completed Successfully!<br>
+My doctoral dissertation, Calibrated Collaboration of Urban Emergency Management, has successfully passed the oral defense at Beihang University.<br>
 Dissertation Committee: Chengyu ZHAN (Beihang Univ.), Fang LV (CUPL), Shuang TAN (CUMTB), Ke YUAN (UIBE), Shuang ZHONG (Beihang Univ.). 
   </p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
 * [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! 
   </p>
-
-<p style="margin-bottom: 0.25em; padding-left: 20px;">
-* [2025.12] Successfully passed the pre-defense of the doctoral dissertation at BUAA. 
-</p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
 * [2025.10] Received the honor of "Three Good Student" at BUAA. 
