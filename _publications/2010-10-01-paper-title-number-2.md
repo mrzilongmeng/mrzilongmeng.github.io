@@ -1,13 +1,12 @@
 ---
 title: "“动力—能力”视角下省域大气污染治理的有效路径"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+category: Research Article
+permalink: 10.15896/j.xjtuskxb.202505012
+excerpt: '与任丙强、薛治佳合作，本人为通讯作者'
+date: 2025-10-01
+venue: '西安交通大学学报(社会科学版)'
+paperurl: 'https://mrzilongmeng.github.io/files动力能力视角下省域大气污染治理的有效路径.pdf'
 citation: '任丙强,薛治佳,孟子龙.“动力—能力”视角下省域大气污染治理的有效路径[J].西安交通大学学报(社会科学版),2025,45(5):127-138.'
 ---
 
