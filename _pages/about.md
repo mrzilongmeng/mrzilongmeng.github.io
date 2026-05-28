@@ -46,7 +46,7 @@ My doctoral dissertation, <strong><em>Calibrated Collaboration of Urban Emergenc
   </p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
-* [2025.10] Received the honor of "Three Good Student" at BUAA. 
+* [2025.10] Received the honor of "Merit Student" at BUAA. 
 </p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
