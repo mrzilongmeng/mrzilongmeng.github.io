@@ -37,7 +37,7 @@ redirect_from:
   
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
 * [2026.05] Ph.D. Defense Completed Successfully!<br>
-My doctoral dissertation, Calibrated Collaboration of Urban Emergency Management, has successfully passed the oral defense at Beihang University.<br>
+My doctoral dissertation, ***Calibrated Collaboration of Urban Emergency Management***, has successfully passed the oral defense at Beihang University.<br>
 Dissertation Committee: Chengyu ZHAN (Beihang Univ.), Fang LV (CUPL), Shuang TAN (CUMTB), Ke YUAN (UIBE), Shuang ZHONG (Beihang Univ.). 
   </p>
 
