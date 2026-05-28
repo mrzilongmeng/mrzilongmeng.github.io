@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Emergency Management, Beihang University, 2026
+* M.S. in Public Administration, East China University of Political Science and Law (ECUPL), 2022
+* B.S. in Public Administration, Shandong University of Political Science and Law (SDUPL), 2019
+* B.S. in Law (Dual Degree Major), Shandong University of Political Science and Law (SDUPL), 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2020 – Jan 2022: Academic Consultant / Policy Assistant
+  * Shanghai Minhang District Urban Operation Management Center
+  * Duties included: Policy Analysis & Field Research
   
+* Feb 2019 – Jul 2019: HR Assistant
+  * Jinan Institute of Quantum Technology
+  * Duties included: Talent Acquisition & Recruitment, Organized the 2019 Quantum Information Technology Academic Conference
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* R
+* STATA
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Chinese: Native
+* English: Fluent
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Urban Governance
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Inaugural Party Branch Secretary, Ph.D. Party Branch in Emergency Management, School of Humanities and Social Sciences (CPC Committee), Beihang University
