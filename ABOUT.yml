@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Meng Zilong"
 title_separator          : "-"
 name                     : "Meng Zilong"
-description              : "Phd Candidate, Emergency Management, Beihang Univeristy"
+description              : "Ph.D, Emergency Management, Beihang Univeristy"
 url                      : "https://mrzilongmeng.github.io"
 baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : "male"  
   bio              : "Sui Xi County, AN HUI Province, PRC"
   location         : "Beijing"
-  employer         : "Beihang University"
+  employer         : "Beijing Administration Institute"
   hometown         : "Sui Xi, ANHUI Province, PRC"
   email            : "mengzilong@buaa.edu.cn" 
 
