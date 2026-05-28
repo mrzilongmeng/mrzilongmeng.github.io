@@ -1,5 +1,5 @@
 ---
-title: "西交学报"
+title: "xuebao"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-xi'an-jiaotong-daxue-xuebao
