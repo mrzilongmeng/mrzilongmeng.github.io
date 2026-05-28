@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "ohh"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-xi'an-jiaotong-daxue-xuebao
 excerpt: '与任丙强、薛治佳合作，本人为通讯作者'
 date: 2015-10-01
 venue: 'Journal 1'
-paperurl: '/files/xi'an jiaotong daxue xuebao.pdf'
+paperurl: '/files/xian jiaotong daxue xuebao.pdf'
 citation: '任丙强,薛治佳,孟子龙.“动力—能力”视角下省域大气污染治理的有效路径[J].西安交通大学学报(社会科学版),2025(5):127-138.'
 ---
 
