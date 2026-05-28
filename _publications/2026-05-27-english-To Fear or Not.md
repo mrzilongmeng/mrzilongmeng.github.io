@@ -1,5 +1,5 @@
 ---
-title: 'To fear or not? The impact of internet use on Chinese public safety perception'
+title: "To fear or not? The impact of internet use on Chinese public safety perception"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-05-27-english-To Fear or Not?
