@@ -1,5 +1,5 @@
 ---
-title: "“动力—能力”视角下省域大气污染治理的有效路径"
+title: "动力—能力视角下省域大气污染治理的有效路径"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-xi'an-jiaotong-daxue-xuebao
