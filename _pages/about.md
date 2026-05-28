@@ -11,7 +11,11 @@ redirect_from:
   <br> <!-- 距离上方标题一行的距离 -->
   
 <p style="margin-bottom: 0.5em;">
-  I am a phd candidate in emergency management at Beihang University (BUAA), Supervised by Prof. Ren Bingqiang.
+  I am currently a Lecturer at Beijing Administration Institute.
+</p>
+
+<p style="margin-bottom: 0.5em;">
+  I received my Ph.D. in Public Administration from Beihang University (BUAA) in June 2026, under the supervision of Prof. Ren Bingqiang.
 </p>
 
 <p style="margin-bottom: 0.5em;">
@@ -29,8 +33,14 @@ redirect_from:
 </p>
 
 <br> <!-- 距离上方标题一行的距离 -->
-<span style="color:blue; font-weight:bold; font-size:1.2em;">News</span> <br>
+<span style="color:red; font-weight:bold; font-size:1.2em;">News</span> <br>
   
+<p style="margin-bottom: 0.25em; padding-left: 20px;">
+* [2026.05] Ph.D. Defense Completed Successfully!
+My doctoral dissertation, Calibrated Collaboration of Urban Emergency Management, has successfully passed the oral defense at Beihang University.
+Dissertation Committee: Chengyu ZHAN(Beihang Uni.), Fang LV(CUPL), Shuang TAN(CUMTB), Ke YUAN(UIBE), Shuang ZHONG(Beihang Uni.). 
+  </p>
+
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
 * [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! 
   </p>
