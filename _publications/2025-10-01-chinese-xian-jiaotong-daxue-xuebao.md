@@ -2,7 +2,7 @@
 title: "“动力—能力”视角下省域大气污染治理的有效路径"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-01-xi'an-jiaotong-daxue-xuebao
+permalink: /publication/2025-10-01-xian-jiaotong-daxue-xuebao
 excerpt: '与任丙强、薛治佳合作，本人为通讯作者'
 date: 2025-10-01
 venue: '西安交通大学学报(社会科学版)'
