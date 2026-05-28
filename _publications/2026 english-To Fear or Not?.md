@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "To fear or not? The impact of internet use on Chinese public safety perception"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2026 english-To Fear or Not?
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2026-05-27
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
