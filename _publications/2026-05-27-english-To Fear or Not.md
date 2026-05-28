@@ -1,7 +1,7 @@
 ---
 title: 'To fear or not? The impact of internet use on Chinese public safety perception'
 collection: publications
-category: Research Article
+category: manuscripts
 permalink: /publication/2026-05-27-english-To Fear or Not?
 excerpt: 'Co-authored with Huayu Dou (phd candidate,The Chinese University of Hong Kong).'
 date: 2026-05-27
