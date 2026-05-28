@@ -6,7 +6,7 @@ permalink: /publication/2026 english-To Fear or Not?
 excerpt: 'Co-authored with Huayu Dou (phd candidate,The Chinese University of Hong Kong).'
 date: 2026-05-27
 venue: 'Journal of Risk Research'
-paperurl: 'files/To fear or not  The impact of internet use on Chinese public safety perception.pdf'
+paperurl: 'https://github.com/mrzilongmeng/mrzilongmeng.github.io/files/To fear or not  The impact of internet use on Chinese public safety perception.pdf'
 website: 'https://www.tandfonline.com/doi/full/10.1080/13669877.2026.2674660'
 citation: 'Meng, Z., & Dou, H. (2026). To fear or not? The impact of internet use on Chinese public safety perception. Journal of Risk Research, 1–17.'
 ---
