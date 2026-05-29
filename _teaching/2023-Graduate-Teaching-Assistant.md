@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant (TA) 
+title: "Graduate Teaching Assistant (TA)" 
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/Fall Semester (Sep – Dec) 2023
