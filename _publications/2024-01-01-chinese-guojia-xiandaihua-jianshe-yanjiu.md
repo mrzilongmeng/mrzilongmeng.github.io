@@ -1,7 +1,7 @@
 ---
 title: "集成治理：城市风险化解的理论框架"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-01-01-chinese-guojia-xiandaihua-jianshe-yanjiu
 excerpt: '与任丙强合作，本人负责投稿'
 date: 2024-01-01
