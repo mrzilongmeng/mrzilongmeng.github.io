@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "Beijing, China"
 ---
 
-Collaborated with Professor Bingqiang Ren to successfully deliver the graduate course "Frontiers of Public Administration Theory".
+Collaborated with Professor Bingqiang Ren to successfully deliver the graduate course "Frontiers of Public Administration Theory".<br>
 Facilitated core teaching units and organized advanced theoretical seminar sections for master students.
 
 Heading 1
