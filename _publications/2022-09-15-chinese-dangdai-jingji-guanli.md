@@ -3,7 +3,7 @@ title: "城市数字治理的生成及其风险防控：以上海市M区“一�
 collection: publications
 category: manuscripts
 permalink: /publication/2022-09-15-chinese-dangdai-jingji-guanli
-excerpt: '与李汉卿合作，本人负责投稿'
+excerpt: '与李汉卿教授合作，本人负责投稿'
 date: 2022-09-15
 venue: '当代经济管理'
 paperurl: '/files/dangdai jingji guanli.pdf'
