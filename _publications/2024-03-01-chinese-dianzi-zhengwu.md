@@ -3,7 +3,7 @@ title: "城市治理数字化转型的阶段演进与优化路径"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-01-chinese-dianzi-zhengwu
-excerpt: '与任丙强合作，本人为通讯作者'
+excerpt: '与任丙强教授合作，本人为通讯作者'
 date: 2024-03-01
 venue: '电子政务'
 paperurl: '/files/dianzi zhengwu.pdf'
