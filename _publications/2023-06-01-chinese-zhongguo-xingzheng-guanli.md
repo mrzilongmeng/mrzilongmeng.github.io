@@ -3,7 +3,7 @@ title: "地方政府数字治理何以有效提升基层治理效能?——基�
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01-chinese-zhongguo-xingzheng-guanli
-excerpt: '与任丙强合作，本人为通讯作者'
+excerpt: '与任丙强教授合作，本人为通讯作者'
 date: 2023-06-01
 venue: '中国行政管理'
 paperurl: '/files/zhongguo xingzheng guanli.pdf'
