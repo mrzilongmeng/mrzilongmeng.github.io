@@ -3,7 +3,7 @@ title: "数据治理驱动政府与市场关系的变化及其未来路径"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-12-01-chinese-dongnan-xueshu
-excerpt: '与任勇合作，2022年4月成稿，任勇安排朱友伟署名第三作者'
+excerpt: '与任勇教授合作，2022年4月成稿，任勇教授安排朱友伟（华东政法大学硕士研究生）署名第三作者'
 date: 2022-12-01
 venue: '东南学术'
 paperurl: '/files/dongnan xueshu.pdf'
