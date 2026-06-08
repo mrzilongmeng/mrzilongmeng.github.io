@@ -3,7 +3,7 @@ title: "数字政府建设何以实现敏捷治理：多维度展开及其不确
 collection: publications
 category: manuscripts
 permalink: /publication/2022-09-01-chinese-qiushi-2022
-excerpt: '与李汉卿合作'
+excerpt: '与李汉卿教授合作'
 date: 2022-09-01
 venue: '求实'
 paperurl: '/files/qiushi 2022.pdf'
