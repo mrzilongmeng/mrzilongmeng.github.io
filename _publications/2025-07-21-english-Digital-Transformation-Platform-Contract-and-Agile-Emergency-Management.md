@@ -3,7 +3,7 @@ title: "Digital Transformation, Platform Contract and Agile Emergency Management
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Supported by BUAA'
+excerpt: 'Supported by Prof. Bingqiang REN, School of Public Administration of BUAA'
 date: 2025-07-21
 venue: 'Lien International Conference on Good Governance 2025'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
