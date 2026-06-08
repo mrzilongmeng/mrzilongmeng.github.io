@@ -3,7 +3,7 @@ title: "政党引领国家治理研究的热点议题与前沿趋势——基于
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-chinese-guangzhou-shehui-zhuyi-xueyuan-xuebao
-excerpt: '与李汉卿合作'
+excerpt: '与李汉卿教授合作'
 date: 2023-01-01
 venue: '广州社会主义学院学报'
 paperurl: '/files/guangzhou shehui zhuyi xueyuan xuebao.pdf'
