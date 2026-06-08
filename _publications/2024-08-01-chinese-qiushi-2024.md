@@ -3,7 +3,7 @@ title: "敏捷应急管理：理论内涵、价值取向与实践路径"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-01-chinese-qiushi-2024
-excerpt: '与任丙强合作，本人负责投稿'
+excerpt: '与任丙强教授合作，本人负责投稿'
 date: 2024-08-01
 venue: '求实'
 paperurl: '/files/qiushi 2024.pdf'
