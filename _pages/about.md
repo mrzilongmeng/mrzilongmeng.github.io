@@ -11,11 +11,11 @@ redirect_from:
   <br> <!-- 距离上方标题一行的距离 -->
   
 <p style="margin-bottom: 0.5em;">
-  I am currently a Lecturer at Beijing Administration Institute.
+  I am currently a Lecturer at Beijing Administration Institute, research fellow of Academy of Capital Governance Innovation (ACGI-BAI).
 </p>
 
 <p style="margin-bottom: 0.5em;">
-  I received my Ph.D. in Public Administration from Beihang University (BUAA) in June 2026, under the supervision of Prof. Ren Bingqiang.
+  I received my Ph.D. in Public Administration from Beihang University (BUAA), under the supervision of Prof. Ren Bingqiang.
 </p>
 
 <p style="margin-bottom: 0.5em;">
