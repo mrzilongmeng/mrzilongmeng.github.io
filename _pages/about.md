@@ -11,7 +11,7 @@ redirect_from:
   <br> <!-- 距离上方标题一行的距离 -->
   
 <p style="margin-bottom: 0.5em;">
-  I am currently a Lecturer at Beijing Administration Institute, research fellow of Academy of Capital Governance Innovation (ACGI-BAI).
+  I am currently a Lecturer at Beijing Administration Institute, research fellow of Academy of Capital Governance Innovation (ACGI-BAI) and Beijing Leadership Emergency Management Training Center (BLEMTC-BAI).
 </p>
 
 <p style="margin-bottom: 0.5em;">
